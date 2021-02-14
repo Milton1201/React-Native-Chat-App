@@ -1,12 +1,12 @@
 {
   "name": "chatbackend",
   "version": "1.0.0",
-  "description": "This is the chat system backedn",
+  "description": "This is the chat system backend",
   "main": "server.js",
   "scripts": {
     "server": "nodemon sever"
   },
-  "author": "Samuel Anthony",
+  "author": "Mbifanse Milton Keyness",
   "license": "MIT",
   "dependencies": {
     "bcryptjs": "^2.4.3",
